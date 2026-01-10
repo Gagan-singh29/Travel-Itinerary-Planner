@@ -4,4 +4,3 @@ langchain-core
 langchain-community
 langchain-groq
 langgraph
-python-dotenv
