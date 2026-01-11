@@ -1,12 +1,3 @@
----
-title: HarryAI-Travel-Itinerary-Planner
-app_file: app.py
-sdk: gradio
-sdk_version: 5.50.0
-emoji: 🚀
-short_description: AI-powered travel itinerary planner based on your interests
----
-
 # HarryAI – Travel Itinerary Planner 
 
 ##  Live Demo
